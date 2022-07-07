@@ -1,0 +1,36 @@
+{
+    "hair": {
+        "index": 0,
+        "type": "default"
+    },
+    "upper": {
+        "type": "custom",
+        "url": "http://localhost:8888/gltf/M_Upper_Hoodie.glb"
+    },
+    "lower": {
+        "index": 0,
+        "type": "default"
+    },
+    "feet": {
+        "index": 0,
+        "type": "default"
+    },
+    "eyes": {
+        "type": "custom",
+        "url": "http://localhost:8888/textures/eyes.png"
+    },
+    "mouth": {
+        "index": 0,
+        "type": "default"
+    },
+    "skin": {
+        "index": 0
+    },
+    "eyesColor": {
+        "index": 0
+    },
+    "hairColor": {
+        "index": 0
+    }
+
+}

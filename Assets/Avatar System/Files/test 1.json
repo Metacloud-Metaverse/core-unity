@@ -1,0 +1,42 @@
+{
+    "hair": {
+        "index": 1,
+        "type": "default"
+    },
+    "upper": {
+        "type": "custom",
+        "url": "http://localhost:8888/gltf/M_uBody_SportJacket.glb"
+    },
+    "lower": {
+        "index": 0,
+        "type": "default"
+    },
+    "feet": {
+        "index": 1,
+        "type": "default"
+    },
+    
+    "hat": {
+        "index": 0,
+        "type": "default"
+    },
+    "earring": {
+        "index": 0,
+        "type": "default"
+    },
+    "eyes": {
+        "type": "custom",
+        "url": "http://localhost:8888/textures/eyes1.png"
+    },
+    "mouth": {
+        "index": 0,
+        "type": "default"
+    },
+    "skin": {
+        "index": 0
+    },
+    "eyesColor": {
+        "index": 1
+    }
+
+}
